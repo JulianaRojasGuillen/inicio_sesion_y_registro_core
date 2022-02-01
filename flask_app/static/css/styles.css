@@ -1,0 +1,25 @@
+.btn,.form-group{
+    margin-top: 20px;
+}
+
+.btn{
+    width: 130px;
+}
+.dash{
+    margin:60px;
+}
+
+.checkbox{
+    margin:10px;
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+}
+
+.error{
+    color:lightcoral;
+}
+
+.login{
+    height:340px;
+}
